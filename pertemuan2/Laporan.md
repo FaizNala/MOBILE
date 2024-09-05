@@ -47,6 +47,7 @@ Kelas : SIB 3D <br>
     + !expression negasi atau kebalikan hasil ekspresi—yaitu, true menjadi false dan false menjadi true. 
     + || menerapkan operasi logika OR antara dua ekspresi. 
     + && menerapkan operasi logika AND antara dua ekspresi.<br>
+    
     <b>Main function</b>
     Seperti kebanyakan bahasa modern, Dart menggunakan function dan method sebagai cara untuk memisahkan kode. Sebuah function atau method adalah potongan kode yang menerima beberapa data, eksekusi kode, dan kemudian mengembalikan beberapa data (return).
 
